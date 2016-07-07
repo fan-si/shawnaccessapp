@@ -142,7 +142,7 @@ p.info {
 	color: rgba(255,255,255,0.28);
 	text-align: center;
 	letter-spacing: 2pt;
-	margin: 0 30px;
+	margin: 0 30px 15px 0;
 	display: block;
 }
 
