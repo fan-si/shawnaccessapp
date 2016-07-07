@@ -50,6 +50,10 @@ html, body {
 	margin: 20px 0px;	
 }
 
+.marginTop {
+	margin-top: 50px;
+}
+
 .caps {
 	text-transform: uppercase;
 	font-size: 14px;
