@@ -51,7 +51,17 @@ html, body {
 }
 
 .marginTop {
-	margin-top: 50px;
+	margin-top: 130px;
+}
+
+@media only screen
+    and (min-device-width : 320px)
+    and (min-device-height : 481px)
+    and (orientation : portrait) {
+
+    .marginTop {
+		margin-top: 200px;
+	}
 }
 
 .caps {
