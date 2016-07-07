@@ -656,6 +656,8 @@ iframe.full {
 	height: 100%;
 }
 
+.sumome-share-client-share,
+.sumome-share-client-share:last-child,
 .share a {
 	margin: 10px 4px!important;
 }
