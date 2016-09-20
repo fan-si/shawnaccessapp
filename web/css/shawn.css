@@ -256,12 +256,6 @@ h1 strong {
 }
 
 /** SHAWN STYLES **/
-html, body,
-.app-page, .app-content {
-	background: #000;
-	color: #FFF;
-}
-
 .app-page.blue, .app-page.blue .app-content {
 	background: rgb(0,146,207);
 	color: #FFF;	
