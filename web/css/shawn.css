@@ -789,6 +789,7 @@ iframe.full {
     min-width: 300px;
     margin-left: 10px;
     margin-right: 10px;
+    text-align: center;
 }
 
 @media (min-width: 768px) {
